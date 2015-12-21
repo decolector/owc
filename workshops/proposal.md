@@ -50,3 +50,23 @@ We will develop simple electronic devices using easy-to-use components. In the p
 ### Duration
 
 12 hours ( 4 sessions 3 hours or 3 sessions 4 hours)
+
+
+## Cryptoparty
+
+
+### Introduction
+
+[CryptoParty](https://www.cryptoparty.in) is a decentralized, global initiative to introduce the most basic cryptography software and the fundamental concepts of their operation to the general public, such as the Tor anonymity network, public key encryption (PGP/GPG), and OTR (Off The Record messaging). CryptoParties are free to attend, public, and commercially and politically non-aligned (text taken from the official CryptoParty site).
+
+### Description
+
+A CryptoParty is divided in two parts. A general introduction, and a hands-on session.  The intro is a short (max 30 min) and it's goal is to give an overview of the what and why of cryptography.  The practical part is where participants learn the how, meaning they learn how to use cryptographic tools to secure their digital information and communications. As much as possible, the information exchanged and the tools used do not require expertise in the subject, but a basic knowledge of personal computers is desired.
+
+### Tools
+
+Several tools for encryption, decription and managment of keys will be used at the party.  Most of these tools are open source, free of charge and safe to use.
+
+### Duration
+
+A typical CryptoParty lasts from 3 to 5 hours.
