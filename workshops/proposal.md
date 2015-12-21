@@ -19,7 +19,7 @@ The workshop will be composed of practical sessions where we will learn the basi
 
 ### Tools
 
-We'll use the [processing](https://processing.org/) language and programming environment, which is an open source tool for visual and interactive programming.  It can be installed on a computer running [OSX](https://en.wikipedia.org/wiki/OS_X), [https://en.wikipedia.org/wiki/Microsoft_Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) or [Linux](https://en.wikipedia.org/wiki/Linux) platforms.
+We'll use the [processing](https://processing.org/) language and programming environment, which is an open source tool for visual and interactive programming.  It can be installed on a computer running [OSX](https://en.wikipedia.org/wiki/OS_X), [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) or [Linux](https://en.wikipedia.org/wiki/Linux) platforms.
 
 ### Duration
 
